@@ -1,0 +1,14 @@
+{
+    "models": [
+        "sw-1801p"
+    ],
+    "inputs": {
+        "gpio": {
+            "type": "gpio",
+            "args": {
+                "direction": "in",
+                "edge": "falling"
+            }
+        }
+    }
+}
